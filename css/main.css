@@ -2525,8 +2525,10 @@ shortcodes page css
   margin-left: 15px;
 }
 
+.left {
+	float:lef;
+}
 
-
-
-
-
+.right {
+	float:right;	
+}
